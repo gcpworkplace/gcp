@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-chees
-=======
-cricket
->>>>>>> rel
